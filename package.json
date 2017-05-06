@@ -1,0 +1,26 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3048/project-sass.git"
+  },
+  "keywords": [
+    "finanseland"
+  ],
+  "author": "olena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3048/project-sass/issues"
+  },
+  "homepage": "https://github.com/3048/project-sass#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
